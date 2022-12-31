@@ -1,1 +1,15 @@
-MainCss
+body {
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    align-items: center;
+    text-align: center;
+    background-color: lightblue;
+    font-family: Zapf Chancery;
+}
+.form{
+    background-color: skyblue;
+    padding: 20px;
+    box-shadow: 0 4px 8px ;
+}
