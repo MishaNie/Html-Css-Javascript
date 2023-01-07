@@ -1,1 +1,4 @@
-Will upload today
+function Add1(value) {
+    return value + 1;
+
+}
